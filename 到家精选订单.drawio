@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T03:03:58.710Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="6w0PC5kjmY2EfD2KRFhd" version="14.7.2" type="github"><diagram id="FcgSpzdXsM41iWUH5T7n" name="Page-1">7Vldc6M2FP01mm0fktEHAvEINunXdDqdzLSPHtkQmwlGXsCxvb++VyBsYyAh65BNu32yuBJXV1fnnCtkxCbr/U+Z3Kx+V2GUIIrDPWJTRClxHAY/2nKoLNy2KsMyi0Mz6GS4j79ExoiNdRuHUd4YWCiVFPGmaVyoNI0WRcMms0ztmsMeVNKcdSOXUctwv5BJ2/p3HBaryiqoc7L/HMXLVT0zsd2qZy3rwWYl+UqGandmYgFik0ypomqt95Mo0cmr81K9d9fTewwsi9JiyAvhnzyf//r4+Zff/jgEBxnvveDLjfHyJJOtWfBfUVbEsH6wTlRayDiNMrOA4lBnJd/F60Sm8OQbB/BWtO+NjBzXC0CJ1DoqsgMMMS/cCOze8uqtQ3P7d6ecM8vYVmf5FsYmzTYvj85PmYCGScYrEkNbiUHUTmBW/wGy0siG/Xmr6o6bvESwBwMI3exPndBalr+BQF6APIoCjsQUuVw3fK9uECRoOYYgT6DgDvkT5Hr13PPs6MdY8o1MO6OB7ShuZBIv0yqcJHoo2uGsws0smS9noSzkbC2z4jacczFbHWYbeZipLIyyWTifFbP5+mSp54bEVtM3QwJzlaPafAEeHZmeuljDjkwJNE2Y0wUABtwz/8mA0DMd6zgM9et+FkGC5bx0heF5o+K0KPee+4hPta9toapNKF3nRaYeo4lKFPidpmo4Zvv50g9kegFj5gyDMRsLxqwNY407gXysG4BE30aBg3yK/AAFLgJCCbcLpEdI2sjDyBclWu+QYKUfGOOUXeCQlw1wyLRnFxzaYwuI47YEhLYVxOHHUefJt6yxsm91iMiViejf5XZ2TCooa2WC8A4QWsQZKQ+iV0wb+nGVNPaI0Zsr5kApvNjmTG3TMAqNKO1WcRHdb+RC9+7g4NSUw68HgvUsTWpKGFzYoo0L0oELzkaChdshTpaWFthVDQFPb3UlV26tW6Al1c4LMd/mcDjJ89rgviu59hdM6icbtd+VbIR3ar6Rehu5ltbtmj6LJIblz8AjoEMPxp9eJMpcLh6XJaJvFlVh1XTJlnP5A9ZuKASOO1s/lrP4+hA/iGyMYW5zyjEjDLuuLbjdw7hP34py7vPwwLf0sjC1aUdZZ2FiYxGP2L2CHMZPV4hjl6wTYulzgFZ2cgbEYfIN5jKipvXtgyyJAUE6QwMbXEXMmbYVxTPEe+2UV/HxMi5CBIGDErMEdgjmnGn1GjcVLy18fBBcEXyJHLs8T3/nyBku1t8YOecjZarTWH3o5mqbQX04ZpWwr07s60DYPqR+kPPkq4ub013cnI7q5oxW3ZyRq9u1N0C2/ij2Ju1i+O6HsZb4Ywe7jhAOFrbjQCWwrEEMGMzG5sVQN0n/HVDv+nx693Nc/4f1WyK9xm15PnLv9De4P0XeB8Lt2zCTUMA8HH0wp9jilGEsXobuq8rCoDC+Kxox8gFo1HERMSKNyisOfckK8u+Xd1r/NRoJmwgqXMoFyKQlGP2fRm9NowsWjVqM4PH0N2XZd/ZnLwv+AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:21:55.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="tydum4RoKDFRUicJakY1" version="14.7.2" type="github">
+  <diagram id="FcgSpzdXsM41iWUH5T7n" name="Page-1">
+    <mxGraphModel dx="1773" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dQ5sbJkqIKOyEyaixAEz-3" value="到家精选订单表核心字段梳理" style="swimlane;" parent="1" vertex="1">
+          <mxGeometry x="-799.5" y="40" width="889.5" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ5sbJkqIKOyEyaixAEz-4" value="" style="swimlane;" parent="dQ5sbJkqIKOyEyaixAEz-3" vertex="1">
+          <mxGeometry y="23" width="150" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ5sbJkqIKOyEyaixAEz-8" value="&lt;span&gt;订单底层表：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;t_bm_pay_order&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="dQ5sbJkqIKOyEyaixAEz-4" vertex="1">
+          <mxGeometry x="20" y="56" width="110" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="dQ5sbJkqIKOyEyaixAEz-9" value="业务划分（business）" style="swimlane;" parent="dQ5sbJkqIKOyEyaixAEz-3" vertex="1">
+          <mxGeometry x="150" y="23" width="290" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-10" value="家政订单：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; text-align: left&quot;&gt;3305652503130996856&lt;/span&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-9">
+          <mxGeometry x="10.5" y="175.5" width="270" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-12" value="家政后端日志表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="449.5" y="120" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-13" value="服务卡后端日志表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="449.5" y="200" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-1" value="到家精选订单表核心字段梳理" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-799.5" y="760" width="759.5" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-2" value="" style="swimlane;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-1">
+          <mxGeometry y="23" width="150" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-3" value="&lt;span&gt;订单底层表：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;t_bm_pay_order&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-2">
+          <mxGeometry x="20" y="56" width="110" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-4" value="业务划分（business）" style="swimlane;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-1">
+          <mxGeometry x="150" y="23" width="260" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-5" value="家政：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; text-align: left&quot;&gt;3305652503130996856&lt;/span&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
+          <mxGeometry x="10.25" y="128" width="239.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;114管家：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;旧：&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;client_id = &#39;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;1181759348071055360&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&#39;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;新：&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;client_id = &#39;&lt;/span&gt;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;3305652503130996856&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&#39;&lt;/span&gt;&lt;/div&gt;&lt;span&gt;and order_source = &#39;13&#39;&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
+          <mxGeometry x="10.25" y="178" width="239.75" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-7" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;搬家：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;1070978870867718144&lt;/span&gt;&lt;span&gt;&#39;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
+          <mxGeometry x="10.25" y="268" width="239.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;租车：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1277159305204523008&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&#39;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
+          <mxGeometry x="10.25" y="318" width="239.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;三嫂：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1286182892582264832&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&#39;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
+          <mxGeometry x="10.5" y="368" width="239.5" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-11" value="平台（platform）" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="63" width="150" height="417" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
