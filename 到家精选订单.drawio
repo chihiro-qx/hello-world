@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-08T03:21:55.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="tydum4RoKDFRUicJakY1" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-08T03:28:35.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="26LBSihg43xrViIRBH41" version="14.7.2" type="github">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="Page-1">
     <mxGraphModel dx="1773" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dQ5sbJkqIKOyEyaixAEz-3" value="到家精选订单表核心字段梳理" style="swimlane;" parent="1" vertex="1">
-          <mxGeometry x="-799.5" y="40" width="889.5" height="440" as="geometry" />
+          <mxGeometry x="-810" y="40" width="1200" height="440" as="geometry" />
         </mxCell>
         <mxCell id="dQ5sbJkqIKOyEyaixAEz-4" value="" style="swimlane;" parent="dQ5sbJkqIKOyEyaixAEz-3" vertex="1">
           <mxGeometry y="23" width="150" height="417" as="geometry" />
@@ -14,16 +14,34 @@
           <mxGeometry x="20" y="56" width="110" height="53" as="geometry" />
         </mxCell>
         <mxCell id="dQ5sbJkqIKOyEyaixAEz-9" value="业务划分（business）" style="swimlane;" parent="dQ5sbJkqIKOyEyaixAEz-3" vertex="1">
-          <mxGeometry x="150" y="23" width="290" height="417" as="geometry" />
+          <mxGeometry x="150" y="23" width="310" height="417" as="geometry" />
         </mxCell>
         <mxCell id="BdYj-M6hs6M1Wns3V9-y-10" value="家政订单：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0) ; text-align: left&quot;&gt;3305652503130996856&lt;/span&gt;&#39;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-9">
-          <mxGeometry x="10.5" y="175.5" width="270" height="43" as="geometry" />
+          <mxGeometry x="19.5" y="175.5" width="270" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BdYj-M6hs6M1Wns3V9-y-12" value="家政后端日志表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
-          <mxGeometry x="449.5" y="120" width="130.5" height="40" as="geometry" />
+          <mxGeometry x="479.5" y="120" width="130.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BdYj-M6hs6M1Wns3V9-y-13" value="服务卡后端日志表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
-          <mxGeometry x="449.5" y="200" width="130.5" height="40" as="geometry" />
+          <mxGeometry x="479.5" y="200" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-15" value="家政后端日志表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="650" y="120" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-16" value="家政前端流量表" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="650" y="200" width="130.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-11" value="平台（platform）" style="swimlane;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="459.75" y="23" width="170" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-17" value="渠道（sources）" style="swimlane;" vertex="1" parent="dQ5sbJkqIKOyEyaixAEz-3">
+          <mxGeometry x="800" y="23" width="150" height="417" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-18" value="&lt;span&gt;订单底层表：&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;text-align: left&quot;&gt;t_bm_pay_order&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-17">
+          <mxGeometry x="20" y="170.5" width="110" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-20" value="remark.sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-17">
+          <mxGeometry x="20" y="97" width="110" height="43" as="geometry" />
         </mxCell>
         <mxCell id="BdYj-M6hs6M1Wns3V9-y-1" value="到家精选订单表核心字段梳理" style="swimlane;" vertex="1" parent="1">
           <mxGeometry x="-799.5" y="760" width="759.5" height="440" as="geometry" />
@@ -52,8 +70,8 @@
         <mxCell id="BdYj-M6hs6M1Wns3V9-y-9" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;三嫂：client_id = &#39;&lt;span style=&quot;background-color: rgba(0 , 0 , 0 , 0)&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;1286182892582264832&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;&#39;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="BdYj-M6hs6M1Wns3V9-y-4">
           <mxGeometry x="10.5" y="368" width="239.5" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="BdYj-M6hs6M1Wns3V9-y-11" value="平台（platform）" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="63" width="150" height="417" as="geometry" />
+        <mxCell id="BdYj-M6hs6M1Wns3V9-y-14" value="平台细分（platform_detail）" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="63" width="170" height="417" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
