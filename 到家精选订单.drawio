@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T03:34:22.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="-uCHoANKoGOiSxqxEkmL" version="14.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-06-17T06:54:01.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="I4PwIBatr83-L-t6LJLc" version="14.7.7" type="github" pages="4">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="Page-1">
     <mxGraphModel dx="1773" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -885,7 +885,7 @@
         <mxCell id="daycRS6GBb3yxeM-6-qW-0" />
         <mxCell id="daycRS6GBb3yxeM-6-qW-1" parent="daycRS6GBb3yxeM-6-qW-0" />
         <mxCell id="daycRS6GBb3yxeM-6-qW-2" value="订单来源类型逻辑梳理" style="swimlane;" vertex="1" parent="daycRS6GBb3yxeM-6-qW-1">
-          <mxGeometry x="40" y="40" width="2680" height="800" as="geometry" />
+          <mxGeometry x="40" y="40" width="2760" height="800" as="geometry" />
         </mxCell>
         <mxCell id="daycRS6GBb3yxeM-6-qW-3" value="" style="swimlane;" vertex="1" parent="daycRS6GBb3yxeM-6-qW-2">
           <mxGeometry y="23" width="230" height="777" as="geometry" />
@@ -1192,6 +1192,12 @@
         </mxCell>
         <mxCell id="TM_DTiF5d23AoO2i2zbq-100" value="platform = &#39;weapp&#39;？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="TM_DTiF5d23AoO2i2zbq-97">
           <mxGeometry x="12.5" y="687" width="155" height="56.37" as="geometry" />
+        </mxCell>
+        <mxCell id="TM_DTiF5d23AoO2i2zbq-104" value="其他" style="swimlane;" vertex="1" parent="daycRS6GBb3yxeM-6-qW-2">
+          <mxGeometry x="2570" y="23" width="190" height="777" as="geometry" />
+        </mxCell>
+        <mxCell id="TM_DTiF5d23AoO2i2zbq-105" value="其他" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TM_DTiF5d23AoO2i2zbq-104">
+          <mxGeometry x="50" y="52" width="90" height="43" as="geometry" />
         </mxCell>
         <mxCell id="YG46uZvNzteia3Kmar93-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="daycRS6GBb3yxeM-6-qW-1" source="G1eFDp3JGV4Pki1ORwF7-0" target="YG46uZvNzteia3Kmar93-0">
           <mxGeometry relative="1" as="geometry">
