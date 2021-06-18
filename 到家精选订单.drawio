@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T12:15:38.798Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="EDQGLpZofDQ1ZtxqmeYC" version="14.7.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-06-18T07:12:42.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="XhDKScP-SsnrUhMbeGvr" version="14.7.7" type="github" pages="6">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="核心字段">
     <mxGraphModel dx="2252" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1322,7 +1322,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-2" value="用户下单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="40" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="70" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-3" target="4wvWf35Yx1nFzKAlgYp7-4">
           <mxGeometry relative="1" as="geometry" />
@@ -1330,8 +1330,8 @@
         <mxCell id="bBKbSfqAsF1ZYs4fR4jF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-3" target="4wvWf35Yx1nFzKAlgYp7-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="420" y="180" />
-              <mxPoint x="420" y="400" />
+              <mxPoint x="420" y="210" />
+              <mxPoint x="420" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1341,7 +1341,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-3" value="订单流转至商家/阿姨" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="150" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-4" target="4wvWf35Yx1nFzKAlgYp7-10">
           <mxGeometry relative="1" as="geometry" />
@@ -1355,34 +1355,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-4" value="商家处理订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="260" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="290" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBKbSfqAsF1ZYs4fR4jF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-5" target="4wvWf35Yx1nFzKAlgYp7-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-5" value="分配服务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="370" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="400" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBKbSfqAsF1ZYs4fR4jF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-6" target="4wvWf35Yx1nFzKAlgYp7-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-6" value="服务人员上门服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="480" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="510" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-7" value="订单服务完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="220" y="590" width="140" height="60" as="geometry" />
+          <mxGeometry x="220" y="620" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="4wvWf35Yx1nFzKAlgYp7-10" target="4wvWf35Yx1nFzKAlgYp7-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4wvWf35Yx1nFzKAlgYp7-10" value="触发转派" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="80" y="150" width="80" height="60" as="geometry" />
+          <mxGeometry x="80" y="180" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBKbSfqAsF1ZYs4fR4jF-6" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 下单业务渠道&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 1.主流程下单（主app、小程序、外部h5投放）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 2.服务卡&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 3.微信小程序二维码（市场、线上化）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 4.第三方小程序（支付宝、抖音、百度...）&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&amp;nbsp; 5.客服后台&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="440" y="30" width="260" height="120" as="geometry" />
+          <mxGeometry x="460" y="40" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bBKbSfqAsF1ZYs4fR4jF-7" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 下单业务类型&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 1.普通服务订单&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2.周期订单&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 3.组合购订单&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 4.服务卡预约服务订单&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 5.拼团订单&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
-          <mxGeometry x="760" y="30" width="180" height="120" as="geometry" />
+          <mxGeometry x="780" y="40" width="240" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-9" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 订单流转方式&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 1.黑盒（算法直选商家）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2.商家列表（用户选择商家）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 3.直派模式，直接流转至阿姨&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="460" y="200" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-10" value="&lt;div&gt;&lt;span&gt;&amp;nbsp; 商家接单方式&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 1.商家业务后台（手动/自动）接单&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp; 2.第三方api接入商家，自动接单&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="460" y="360" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="bBKbSfqAsF1ZYs4fR4jF-11" target="bBKbSfqAsF1ZYs4fR4jF-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-11" value="系统按周期定时汇总订单，下发结算单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="220" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="bBKbSfqAsF1ZYs4fR4jF-12" target="bBKbSfqAsF1ZYs4fR4jF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-12" value="商家确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="414" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="4wvWf35Yx1nFzKAlgYp7-1" source="bBKbSfqAsF1ZYs4fR4jF-13" target="bBKbSfqAsF1ZYs4fR4jF-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-13" value="运营确认" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="610" y="740" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBKbSfqAsF1ZYs4fR4jF-14" value="完成打款" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4wvWf35Yx1nFzKAlgYp7-1">
+          <mxGeometry x="800" y="740" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
