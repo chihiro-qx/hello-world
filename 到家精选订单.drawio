@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-02T12:37:50.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="50hnbcR9T15uPQ_HYInj" version="14.9.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-02T12:38:05.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="lYB6VGPuoG1wSyECYmD_" version="14.9.2" type="github" pages="10">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="核心字段">
     <mxGraphModel dx="2146" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2524,7 +2524,7 @@
         <mxCell id="BgFFV08bPWOyy893gIM4-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BgFFV08bPWOyy893gIM4-29" source="BgFFV08bPWOyy893gIM4-43" target="BgFFV08bPWOyy893gIM4-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BgFFV08bPWOyy893gIM4-43" value="remark3.zeroPayReason&lt;br&gt;not in (2, 5, 6, 7)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="BgFFV08bPWOyy893gIM4-29">
+        <mxCell id="BgFFV08bPWOyy893gIM4-43" value="remark3.zeroPayReason&lt;br&gt;not in (2, 5, 6, 7, 12)?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="BgFFV08bPWOyy893gIM4-29">
           <mxGeometry x="266" y="328" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BgFFV08bPWOyy893gIM4-44" value="淘宝天猫-30支付用户" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="BgFFV08bPWOyy893gIM4-29">
