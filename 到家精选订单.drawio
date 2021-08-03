@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T09:39:28.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BIwYg6R0NqOoNeqUQfwk" version="14.9.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-03T09:41:41.734Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="R7DRdPUt1AtukglSH_FW" version="14.9.2" type="github" pages="10">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="核心字段">
     <mxGraphModel dx="2146" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2437,7 +2437,7 @@
         <mxCell id="kCBCIHEPvZUvsbRq2hVM-70" value="用户领券记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
           <mxGeometry x="50" y="50" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8oo7C79rwo0pZrfMJrLn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.048;entryY=0.483;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="kCBCIHEPvZUvsbRq2hVM-69" source="kCBCIHEPvZUvsbRq2hVM-71" target="8oo7C79rwo0pZrfMJrLn-0">
+        <mxCell id="CD1EcXQB6rdTYCjs5EiR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kCBCIHEPvZUvsbRq2hVM-69" source="kCBCIHEPvZUvsbRq2hVM-71" target="8oo7C79rwo0pZrfMJrLn-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kCBCIHEPvZUvsbRq2hVM-71" value="coupon_code = &#39;CvRoWbVG3&#39;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
@@ -2447,10 +2447,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8oo7C79rwo0pZrfMJrLn-0" value="sources &amp;lt;&amp;gt; &#39;xiaochengxumoren&#39;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="400" y="41" width="166" height="60" as="geometry" />
+          <mxGeometry x="400" y="40" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8oo7C79rwo0pZrfMJrLn-1" value="市场合作code" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="600" y="49.5" width="130" height="43" as="geometry" />
+          <mxGeometry x="600" y="48.5" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="8oo7C79rwo0pZrfMJrLn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kCBCIHEPvZUvsbRq2hVM-69" source="8oo7C79rwo0pZrfMJrLn-9" target="8oo7C79rwo0pZrfMJrLn-10">
           <mxGeometry relative="1" as="geometry" />
