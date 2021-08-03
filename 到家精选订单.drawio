@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T09:38:42.992Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="YQlsCDZYIz0WPAvMyMQB" version="14.9.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-08-03T09:39:28.835Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BIwYg6R0NqOoNeqUQfwk" version="14.9.2" type="github" pages="10">
   <diagram id="FcgSpzdXsM41iWUH5T7n" name="核心字段">
     <mxGraphModel dx="2146" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2598,22 +2598,22 @@
           <mxGeometry x="600" y="835" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-6" value="预处理后的市场券码表" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="50" y="903.5" width="140" height="53" as="geometry" />
+          <mxGeometry x="50" y="913.5" width="140" height="53" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-8" value="关联字段是否为null?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="242" y="900" width="166" height="60" as="geometry" />
+          <mxGeometry x="242" y="910" width="166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kCBCIHEPvZUvsbRq2hVM-69" source="CD1EcXQB6rdTYCjs5EiR-6" target="CD1EcXQB6rdTYCjs5EiR-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-9" value="市场-券码" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="600" y="908.5" width="130" height="43" as="geometry" />
+          <mxGeometry x="600" y="918.5" width="130" height="43" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kCBCIHEPvZUvsbRq2hVM-69" source="CD1EcXQB6rdTYCjs5EiR-8" target="CD1EcXQB6rdTYCjs5EiR-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CD1EcXQB6rdTYCjs5EiR-10" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="kCBCIHEPvZUvsbRq2hVM-69">
-          <mxGeometry x="405" y="905.5" width="30" height="20" as="geometry" />
+          <mxGeometry x="405" y="915.5" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kCBCIHEPvZUvsbRq2hVM-31" value="服务卡" style="swimlane;" vertex="1" parent="H7ZCW-zUWvYQNT-NGp-j-2">
           <mxGeometry y="1520" width="760" height="540" as="geometry" />
@@ -3091,7 +3091,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="97" />
-              <mxPoint x="20" y="2990" />
+              <mxPoint x="20" y="3000" />
             </Array>
           </mxGeometry>
         </mxCell>
