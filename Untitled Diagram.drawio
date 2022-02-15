@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T06:37:30.932Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="FcGOjq_F4_4Hs7Kq7-wH" version="16.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-15T09:29:08.915Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="cPYn0z7R5X0wuYLJwR5G" version="16.5.3" type="github" pages="2">
   <diagram id="voTOpp2yydBu0dY6nFDH" name="家政业务数据建设">
     <mxGraphModel dx="1773" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -937,6 +937,78 @@
         </mxCell>
         <mxCell id="DvB9YkIADxdMxvMI5wjT-87" value="搬家师傅&lt;br&gt;提供服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
           <mxGeometry x="800" y="3450" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-89" value="&lt;font style=&quot;font-size: 18px&quot;&gt;优惠券业务流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1480" y="579" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-90" target="DvB9YkIADxdMxvMI5wjT-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-90" value="领取优惠券" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1600" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-91" target="DvB9YkIADxdMxvMI5wjT-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-91" value="绑定优惠券&lt;br&gt;（用户和券绑定）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1600" y="801" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-92" target="DvB9YkIADxdMxvMI5wjT-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-92" target="DvB9YkIADxdMxvMI5wjT-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-92" value="使用优惠券&lt;br&gt;（订单和券绑定）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1600" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-93" value="优惠券核销" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1600" y="1000" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-94" value="优惠券解绑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1860" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-99" value="取消订单/申请退款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1723" y="902" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-100" value="订单服务完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="1660" y="966" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-101" value="&lt;font style=&quot;font-size: 18px&quot;&gt;券包业务流程&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2360" y="579" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-102" target="DvB9YkIADxdMxvMI5wjT-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-102" value="用户下单&lt;br&gt;（一个/多个券包）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2480" y="700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-104" target="DvB9YkIADxdMxvMI5wjT-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-104" value="绑定优惠券&lt;br&gt;（用户和券绑定）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2480" y="801" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-107" target="DvB9YkIADxdMxvMI5wjT-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;startSize=6;endSize=6;" edge="1" parent="lLhhJTs_BIhwE86VHp67-1" source="DvB9YkIADxdMxvMI5wjT-107" target="DvB9YkIADxdMxvMI5wjT-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-107" value="使用优惠券&lt;br&gt;（订单和券绑定）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2480" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-108" value="优惠券核销" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2480" y="1000" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-109" value="优惠券解绑" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2740" y="900" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-110" value="取消订单/申请退款" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2603" y="902" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DvB9YkIADxdMxvMI5wjT-111" value="订单服务完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="lLhhJTs_BIhwE86VHp67-1">
+          <mxGeometry x="2540" y="966" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
